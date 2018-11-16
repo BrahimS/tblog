@@ -28,9 +28,7 @@ class App extends Component {
 
         <main>
           <div className="Banner">
-            <img src="https://picsum.photos/1500/800/?image=789"  alt="plante" />
           </div>
-         
         </main>        
       </div>
     );
